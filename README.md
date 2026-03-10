@@ -157,10 +157,10 @@ The Excel dashboard serves as a simple yet powerful tool for monitoring key metr
 
 ## Project Structure
 
-dataset → Contains the retail sales dataset  
-dashboard → Dashboard screenshots  
-notes → Analysis process and documentation  
-report → Full project report
+Dataset → Contains the retail sales dataset  
+Dashboard → Dashboard screenshots  
+Notes → Analysis process and documentation  
+Report → Full project report
 
 ---
 
