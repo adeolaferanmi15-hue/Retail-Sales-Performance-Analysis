@@ -6,7 +6,7 @@ Businesses generate large amounts of sales data every day, but raw data alone do
 
 In this project, I analyzed a retail sales dataset using Microsoft Excel to understand how different products, customers, and regions contribute to overall revenue. The goal was to transform raw transactional data into meaningful insights that can help guide business strategies.
 
-This project follows a complete data analysis workflow — from understanding the business problem to cleaning the data, analyzing trends, and building a dashboard to communicate insights.
+This project follows a complete data analysis workflow; from understanding the business problem to cleaning the data, analyzing trends, and building a dashboard to communicate insights.
 
 ---
 
