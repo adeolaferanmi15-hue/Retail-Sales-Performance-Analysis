@@ -49,6 +49,21 @@ The dataset used for this analysis is available in the **dataset** folder.
 
 ---
 
+## Dataset
+
+The dataset contains retail sales transactions including product category, customer type, region, and order value.
+
+---
+
+## Dashboard
+
+This project includes an interactive Excel dashboard that visualizes key metrics such as:
+- Total Revenue
+- Average Order Value
+- Customer Distribution
+- Regional Sales Performance
+---
+
 ## Data Cleaning & Preparation
 
 Before performing the analysis, the dataset was prepared to ensure accuracy and consistency.
