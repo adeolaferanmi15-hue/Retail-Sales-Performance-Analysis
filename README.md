@@ -41,6 +41,14 @@ The dataset used for this analysis is available in the **dataset** folder.
 
 ---
 
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Excel Dashboard
+- Canva (for report design)
+
+---
+
 ## Data Cleaning & Preparation
 
 Before performing the analysis, the dataset was prepared to ensure accuracy and consistency.
