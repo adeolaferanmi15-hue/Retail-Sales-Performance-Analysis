@@ -98,7 +98,7 @@ It also includes a **region slicer**, allowing users to dynamically filter the d
 
 ### Dashboard Filtered by Region
 
-![Dashboard Region Filter](dashboard/dashboard-region-filter.png)
+![Dashboard Region Filter](dashboard-region-filter.png)
 
 ---
 
