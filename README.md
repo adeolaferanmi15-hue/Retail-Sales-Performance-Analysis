@@ -94,8 +94,10 @@ It also includes a **region slicer**, allowing users to dynamically filter the d
 
 ### Dashboard View
 
-![Dashboard Screenshot](dashboardScreenshot/dashboard-region-filter.png)
-
+![Dashboard Region Filter 1](Dashboard%20screenshot/dashboard-region-filter.png)
+![Dashboard Region Filter 2](Dashboard%20screenshot/dashboard-region-filter(2).png)
+![Dashboard Region Filter 3](Dashboard%20screenshot/dashboard-region-filter(3).png)
+![Dashboard Region Filter 4](Dashboard%20screenshot/dashboard-region-filter(4).png)
 ### Dashboard Filtered by Region
 
 ![Dashboard Region Filter](dashboard-region-filter.png)
